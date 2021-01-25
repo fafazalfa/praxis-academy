@@ -1,0 +1,20 @@
+-mkdir	(membuat direktori)
+-cd	(mengganti direktori)
+-move
+-chdir
+-date
+-dir
+-echo
+-ipconfig
+-ping
+-help
+-pause 
+-rename
+-type
+-vol
+-print
+-start
+-move
+-more
+-tasklisist
+-set
