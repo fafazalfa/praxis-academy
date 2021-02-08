@@ -1,0 +1,37 @@
+1. vscode 
+
+
+plugin :
+
+1. eslint = pendeteksi eror
+2. vetur = heighligh vuejs
+3. bracket pair color = kurung kurawalnya lebih kelihatan 
+4. pretier = merapikan kode otomatis 
+5. live server = biat auto reloud
+
+ ruang lingkup ' pembeda nya hany akurung kurawa ' 
+global = keseluruhan  
+local = sebuah fungsi, 
+ 
+ tipe data, variable dan operator 
+ variable:
+ var
+ let 
+const
+ 
+  dasar : string, object, boleean, null, undefained= dia kosong jadi tanpa   isian, 
+
+lanjutannya :
+ array,  
+ object,
+ map , set 
+
+ pada variable yang statis gunakan let 
+
+kasus nya menampilkan data diri :
+variable nama "
+ nama :
+ alamat :
+ pendidikan terakhir :
+ 
+//t.me/jointchat/I0KrLjAavfLz0ec0
