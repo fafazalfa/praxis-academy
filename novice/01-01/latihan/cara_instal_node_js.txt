@@ -1,0 +1,4 @@
+langkah - langkah men-instal node js 
+ https://nodejs.org/en/download/
+1.  dengan menggunakan link diatas klik dan akan muncul pada halaman utama nodejs lalu setelah masuk klik untuk windows installer 
+2. lalu akan terdownloads pada masing- masing lepi selanjutnya setelah ter download maka dapat dilakukan pen installan next2 ajah 
