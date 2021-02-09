@@ -1,0 +1,41 @@
+dalam semua perintah sebelum syntax diberikan perintah yaitu "let, cond"
+
+
+falsy value :
+the empty string ("")= nilainya masi kosong 
+ 
+'if ' dia berpasang dengan 'else'
+else ; membuat kondisi lagi 
+dalam suatu kondisi dia akan  menampilkan benar yang paling atas 
+ 
+' swich' dia akab berpasang dengan 'case'
+case ini dia akan men eksekusi 
+
+perulangan disini digunakan apabila dalam suatu pen koding an menggunakan 
+perintah yang sama dalam beberapa kali 
+ beberpa syntax perulangan :
+
+ contoh : 
+for (let i=0; i<5; i ++) {
+console.log ("kata-kata terserah");
+};
+= for disini akan berhenti membaca perintah apabila teradi kesalahan=
+
+let arr = dia sudah membentuk suatu kelompok dengan number sebagai pembeda 
+jadi menggunakan for, 
+
+lanjotttttt
+inner html = dia menambahkan semacam nilai kedlaam suatu perintah yang sudah dibuat
+
+<scrip >
+ var text = "";
+ var i =0;
+while (i < 10)  {
+ text += " <br> the number is " + i ;
+i ++;
+}
+
+  break = untuk memberhentikan suatu kondisi 
+ klok looping trus kita pengen berhenti di angka yang kita iginkan maka dapat menggunakan syntax 
+
+conutine = 
