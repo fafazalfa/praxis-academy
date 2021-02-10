@@ -1,0 +1,53 @@
+ 
+function membungkus sesuatu yang tidak teratur 
+bisa saja sutau fungsi tanpa retrun tetapi dia tidak memiliki nilai 
+java scrip ini retrun = dia itu berupa variable, jadi posisi dia bisa diletakkan sama dengan varibale jadi dipanggilnya menggunakan "hasil"
+
+contoh :
+
+functio makan (nasi, air){
+	console.log ('saya makan $(nasi) dan saya minum $(air)')
+retrun 'saya makan $(nasi) dan saya minum $(air)'
+}
+ hasil = retrun makan 
+
+ ini funcion yang menggunakan if else
+###########
+
+funcion dewasa (age){
+	 if (age >=20) {
+console.log ('yoi gua udah gede wkwkkwkw')
+}
+else{
+if (age <=20) {
+console.log ('masih bayekkkk')
+}}
+
+dewasa ()
+############################################
+callback ini adalah penaruh function dlam sebuah parameter 
+ contoh :
+ const saldo = ( saldo1, saldo2, callabck) => {
+  return callback(saldo1,saldo2)
+}
+const add = (a,b)=>{
+  return a+b 
+} )
+ s1= saldo (2000, 300000, add)
+console.log (s1) 
+************
+ const saldo = ( saldo1, saldo2, callback) => {
+  return callback  (saldo1,saldo2)
+}
+const minus = (a,b)=>{
+  return a-b 
+} )
+ s1= saldo (2000, 300000, minus)
+console.log (s1) 
+
+#################
+
+temukan cara- cara pengembangan logika, yang mana logika ini mempengaruhi penyelesaian cara 
+
+
+

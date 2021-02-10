@@ -34,8 +34,11 @@ while (i < 10)  {
  text += " <br> the number is " + i ;
 i ++;
 }
-
   break = untuk memberhentikan suatu kondisi 
  klok looping trus kita pengen berhenti di angka yang kita iginkan maka dapat menggunakan syntax 
 
 conutine = 
+
+kendala hri ini :
+git up tadi ke uploud nya di brach master, jadi tiba2 ke uploud ke situ 
+trus  
