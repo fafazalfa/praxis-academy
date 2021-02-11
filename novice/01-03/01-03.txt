@@ -1,7 +1,11 @@
  
 function membungkus sesuatu yang tidak teratur 
+bukan callback tapi HAV, jadi fungsi di dalam fungsi 
 bisa saja sutau fungsi tanpa retrun tetapi dia tidak memiliki nilai 
 java scrip ini retrun = dia itu berupa variable, jadi posisi dia bisa diletakkan sama dengan varibale jadi dipanggilnya menggunakan "hasil"
+closure : pengembalian fumgsi yang tidak dapat mengigat suatu variable jadi kek ada yang terbaca gitu 
+housted :fungtsiyang dijalankann di luar , nggak bisa pakek let 
+
 
 contoh :
 

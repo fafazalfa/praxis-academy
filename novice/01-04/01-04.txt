@@ -1,0 +1,38 @@
+## struktur data ##
+objek : 
+
+ 
+array, harus di urutkan
+" let arr" = perintah yang digunakan awalnya ini weh 
+console.log itu yang ingin dihasilkan atau di tampilkan gituh 
+and di setiap perintah gitu harus kek adda tanda perintah dijalankannya nah itu tu pakek perintah (;)
+ 
+kalok di note.js : objes use kurung kurawa "{}" 
+
+
+// let arr = ["fafa","cantik","wkkwkwkw"];
+// console.log(arr);
+
+// for (let i =0; i< arr.lenght; i++){
+//  console.log(arr [i]);
+// }
+// arr.push ("fafa");
+// console.log(arr);
+// arr.splice(1,2);
+// console.log(arr);
+
+diu array sendiri juga da perintah const juga let
+dalam penggunaaan array sendiri awalnya juga di buak dengan perintah 
+" new array() " 
+
+## kalau menggunkan peintah map , map sendiri adalah array dua dimensi 
+syntax:
+let map = new map();     # berfungsi untuk mengawali #
+map.set ("firstName","fafa");
+
+ada juga map.get
+
+map.has = berfungsi untuk membandingkan   
+map.clear= untuk mengahapus
+
+ for = 
