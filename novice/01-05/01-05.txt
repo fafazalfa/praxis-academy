@@ -1,0 +1,9 @@
+
+Objek yang nyata di deskripsikan
+prore tab adalah versi 5 kebawah 
+ cllas nya si js ne pakek fungsi, jadi kek biar tinggal panggil gitu lo
+extend = pengurangan sifat 
+constructor : berfungsi untuk membuat propeerty
+dan flow bersifat dinamis, 
+proper: parametter
+metode : fungsi 
