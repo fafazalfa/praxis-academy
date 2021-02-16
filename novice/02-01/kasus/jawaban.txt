@@ -1,0 +1,3 @@
+kesamaan antara : 
+Ramda, Underscore, dan lodash 
+ramda adladh fungsi js yang  

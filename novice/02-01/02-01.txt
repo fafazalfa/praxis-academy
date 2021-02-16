@@ -1,2 +1,17 @@
 property ()== variable 
 metode = fisit
+
+############ paradigma pemograman #############
+
+syarat : dia asli function atau rumus fungsi 
+fungsi komposisi : perkalian, dia tidak mengubah nilai fungsi lokal, jadi gak ambil fungsi luar, di dalam fungsi ada fungsi lagiii 
+tostring : menjafikan nilai beda string 
+fungsi mutating : fungsi yang tidak bisa di ubah jadi bisanya  membuat niali baru bukan mengubah yang sudah ada 
+refunction : fungsi yang meamnggil fungsi itu sendiri 
+
+ ada juga fungsi campuran : dimana dia memuat variable 
+
+immutable objek
+const = nilai tidaj dapat di ubah 
+klok mau nambah kan ya buat new function baru ditambhkan 
+map : sepeti perulanagn teteapi mengembalikan nilai baru

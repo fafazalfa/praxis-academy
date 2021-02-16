@@ -1,0 +1,15 @@
+asynchronous diletakkan di sebelum deklarasai fungsi 
+
+Asynchronous=  berhubungan dengan respon npm 
+  dia berjalannya dari yang paling atas atau yang cepet duluan 
+ callback sendiri adalah suatu fungsi  
+callback sendiri memiliki kekurangaan sulit kedetek 
+
+
+ 
+promise: 
+
+ ada loading, eror ama reject 
+ asyn dan await = dia tu kek pengembangan per tahunan gitu 
+kasus : instal axious 
+trus outpunynya id ganjil 
