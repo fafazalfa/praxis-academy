@@ -1,0 +1,11 @@
+ERROR
+
+
+untuk menghindari pakek 
+ try = eksekusi kode
+catch = tampilkan eror 
+range error= batasnya terlampoi
+reference error= karena biasanya variablenya ndak kebaca 
+taouper class = digunakan untuk funcion yang memanggil string 
+
+

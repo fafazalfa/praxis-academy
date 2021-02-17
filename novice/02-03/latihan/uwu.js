@@ -1,0 +1,3 @@
+window.onerror = function(message, url, line, col, error) {
+  // ...
+};
