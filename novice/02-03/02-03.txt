@@ -7,5 +7,12 @@ catch = tampilkan eror
 range error= batasnya terlampoi
 reference error= karena biasanya variablenya ndak kebaca 
 taouper class = digunakan untuk funcion yang memanggil string 
+ 
+jadi di kondisi dluuu 
+trus setelah di kondisikan baru deh 
+trhow= eror costom, dia bisa yg lama juga bisa buat keadaan baru 
+ 
+ memanipulasi dom dengan js
+
 
 

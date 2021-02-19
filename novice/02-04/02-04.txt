@@ -1,0 +1,9 @@
+DOM 
+ memanipulasi java dengan 
+dapat di styling bisa buat element baru 
+Dom mengikuti browsernya 
+jadi di dom java scrip ini dapat dimasnipulasi
+ untuk memanipulasi sebuah elemen dengan js  
+"apppendcild"=memanggil 
+
+besok install vue cli 
